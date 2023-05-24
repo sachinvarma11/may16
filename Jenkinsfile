@@ -14,6 +14,7 @@ pipeline {
         }
     }
 }'''
+          echo '"This blue ocean is amazing"'
         }
       }
 
